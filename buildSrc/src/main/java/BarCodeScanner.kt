@@ -6,6 +6,6 @@ object BarCodeScanner {
     const val bardCodeScannerAndroid =
         "com.journeyapps:zxing-android-embedded:$barcodeScannerAndroidVersion"
 
-    private const val desugarJdkVersion = "1.1.5"
+    private const val desugarJdkVersion = "2.0.0"
     const val desugarJdk = "com.android.tools:desugar_jdk_libs:$desugarJdkVersion"
 }
